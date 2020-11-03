@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604333853 source:c:\users\user\documents\projetos c\random file creator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604333853 source:c:\users\user\documents\projetos c\random file operator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
